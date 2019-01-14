@@ -1,0 +1,2 @@
+# autoframework
+JmeterInitialFramework
